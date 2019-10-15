@@ -1,12 +1,8 @@
-*{
-    padding: 5% 0;
-}
-.cervezas {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
+app-nav, router-outlet{
+    padding: 0 0 5% 0;
 }
 app-footer {
+    padding: 0;
     display: flex;
     flex-direction: row;
     justify-content: center;

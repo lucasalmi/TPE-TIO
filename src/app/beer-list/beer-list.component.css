@@ -2,6 +2,8 @@ table{
 	border: 2px solid;
 	border-color: black;
 	color: antiquewhite;
+	min-width: 600px;
+	overflow: auto;
 }
 .oferta {
 	background-color: green;
